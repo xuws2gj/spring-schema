@@ -9,7 +9,7 @@
 
     <people:student id="student1" name="student1" age="18"/>
 
-    <people:student id="student2" name="student3" age="20" />
+    <people:student id="student2" name="student2" age="20" />
 
 
     <bean id="student3" class="com.dean.handle.Student">
